@@ -7,7 +7,7 @@ World Weather Analysis empowers travelers with real time data to inform their tr
 
 In this analysis, three Python files were produced: 
 * [The randomization of lat and long numbers and creation of a city map with weather information.](Weather_Database.ipynb)
-* [The addition of input parameters that allow travelers to select preferred conditions of temperature and precipitation.] (Vacation_Search.ipynb)
+* [The addition of input parameters that allow travelers to select preferred conditions of temperature and precipitation](Vacation_Search.ipynb)
 * [Finally, a pre-determined travel itinerary that supports their exploration of four cities on one continent, in this case Australia to enjoy some shrimp on the barbie while croc-spotting.](Vacation_Itinerary.ipynb)
 
 ###### Two data files were created as outputs from the code: 
